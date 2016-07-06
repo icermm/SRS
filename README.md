@@ -16,13 +16,13 @@
 ![images](https://github.com/icermm/SRS/blob/master/srs图/13.jpg)
 ![images](https://github.com/icermm/SRS/blob/master/srs图/14.jpg)
 #系统分层结构
-![images](https://github.com/icermm/SRS/blob/master/srs图/9.jpg)
+![images](https://github.com/icermm/SRS/blob/master/srs图/21.jpg)
 #领域模型
 ![images](https://github.com/icermm/SRS/blob/master/srs图/15.jpg)![images](https://github.com/icermm/SRS/blob/master/srs图/16.jpg)![images](https://github.com/icermm/SRS/blob/master/srs图/17.jpg)
 #数据库结构
 ![images](https://github.com/icermm/SRS/blob/master/srs图/18.jpg)
 ![images](https://github.com/icermm/SRS/blob/master/srs图/19.jpg)
 #类图
-![images](https://github.com/icermm/SRS/blob/master/srs图/class dg.jpg)
-![images](https://github.com/icermm/SRS/blob/master/srs图/sq.jpg)
+![images](https://github.com/icermm/SRS/blob/master/srs图/class dg.png)
+![images](https://github.com/icermm/SRS/blob/master/srs图/sq.png)
 ![images](https://github.com/icermm/SRS/blob/master/srs图/20.jpg)
