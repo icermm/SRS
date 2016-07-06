@@ -6,7 +6,7 @@ public class DbUtil {
 
 	public static Connection getSqliteConnection(){ 
 		String driver="org.sqlite.JDBC";
-		String conStr="jdbc:sqlite://d:/SRS.s3db";
+		String conStr="jdbc:sqlite://e:/SRS.db3";
 		Connection conn=null;
 		try{
 			Class.forName(driver);
