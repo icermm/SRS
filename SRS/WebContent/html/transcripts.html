@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SRS</title>
+<style>
+ table {
+      border-collapse:collapse;
+      width:800px;
+      }
+
+   table, td, th {
+   height:40px;
+   border:1px solid black;
+   text-align:center;
+   }
+    a
+        {
+         font-size:25px;
+         text-decoration:none;
+         outline:#ffc080 solid ;         
+        } 
+   
+</style>
+</head>
+<body>
+	<h1 align=center>SRS--成绩单</h1>
+    <hr/>
+    <div align=center>
+    <a href="studentIndex.html" >返回主页</a>	<br/>	<br/>
+	   <div id="class">
+		 <table class="table" id="transcript">
+				<tr>
+				<th>序号</th>
+				<th>课程名称</th>
+				<th>教师</th>
+				<th>成绩</th>
+				</tr>						
+		 </table>
+        </div>
+      </div> 
+</body>
+<script type="text/javascript" src="../js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="../js/queryGrades.js"></script>
+</html>

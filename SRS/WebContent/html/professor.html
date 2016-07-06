@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>教师管理</title>
+<style>
+  table {
+      border-collapse:collapse;
+      width:800px;
+      }
+
+   table, td, th  {
+   height:40px;
+   border:1px solid black;
+   text-align:center;
+   }
+</style>
+</head>
+<body>
+<h1 align=center>SRS--课程教师</h1>
+    <hr/>
+    <div align=center>														
+			<a  href="addProfessor.html">添加教师</a>							
+			<br/><br/>
+		<form  method="post" action="../deleteProfessor" name="Faculty" id="Faculty">			
+	    <table class="table" id="showprofessor">
+			<tr>
+			<th>序号</th>			
+			<th>教师姓名</th>
+			<th>教师工号</th>
+			<th>教师职称</th>
+			<th>教师部门</th>
+			<th>操作</th>
+	     	</tr>						
+		</table>		 
+		</form>
+</body>
+<script type="text/javascript" src="../js/jquery-1.11.3.js"></script>
+<script type="text/JavaScript" src="../js/jquery.form.js"></script>
+<script type="text/javascript" src="../js/professorIndex.js"></script>
+</html>

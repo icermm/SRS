@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SRS</title>
+<style type="text/css">
+   table {
+      border-collapse:collapse;
+      width:800px;
+      }
+
+   table, td, th  {
+   height:40px;
+   border:1px solid black;
+   text-align:center;
+   }
+</style>
+</head>
+<body>
+	<h1 align=center>SRS--课程管理</h1>
+    <hr/>
+    <div align=center>														
+			<a  href="addCourse.html">添加课程</a>							
+			<br/><br/>
+			<div id="class">
+			<form  method="post" action="../deleteCourse" name="CourseCatalog" id="CourseCatalog">		
+			<table class="table" id="showcourses">
+				<tr>
+				<th>序号</th>
+				<th>课程序号</th>
+				<th>课程名称</th>
+				<th>学分</th>
+				<th>操作</th>
+				</tr>						
+			</table>
+			</form>
+		   </div>
+		</div>
+</body>
+<script type="text/javascript" src="../js/jquery-1.11.3.js"></script>
+<script type="text/JavaScript" src="../js/jquery.form.js"></script>
+<script type="text/javascript" src="../js/courseIndex.js"></script>
+</html>
