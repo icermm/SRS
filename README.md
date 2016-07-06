@@ -18,7 +18,7 @@
 #系统分层结构
 ![images](https://github.com/icermm/SRS/blob/master/srspic/21.jpg)
 #领域模型
-![images](https://github.com/icermm/SRS/blob/master/srspic/15.jpg)![images](https://github.com/icermm/SRS/blob/master/srspic/16.jpg)![images](https://github.com/icermm/SRS/blob/master/srspic/17.jpg)
+![images](https://github.com/icermm/SRS/blob/master/srspic/15.jpg)![images](https://github.com/icermm/SRS/blob/master/srspic/16.jpg)
 #数据库结构
 ![images](https://github.com/icermm/SRS/blob/master/srspic/18.jpg)
 ![images](https://github.com/icermm/SRS/blob/master/srspic/19.jpg)
